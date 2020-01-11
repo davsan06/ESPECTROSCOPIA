@@ -1,0 +1,6 @@
+Tiempos transcurridos hasta medir 300.000 cuentas
+
+Configuración en Coincidencia sin plomo: t-> 872.519
+
+coincidencia con plomo
+aperturas 898084
